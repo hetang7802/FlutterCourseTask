@@ -1,6 +1,7 @@
 # flutter_application_1
 
-A new Flutter project.
+A new Flutter project currently just having the option to signin/signup and basic UI.
+
 
 ## Getting Started
 
